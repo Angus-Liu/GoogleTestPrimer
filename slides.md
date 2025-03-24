@@ -1,6 +1,6 @@
 ---
 layout: cover
-background: /public/imgs/background.jpeg
+background: /imgs/background.jpeg
 theme: default
 transition: default
 ---

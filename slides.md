@@ -150,7 +150,7 @@ GoogleTest 提供了一系列断言宏（assertion macros），用于验证代�
 
 ::right::
 
-<div class="w-full h-full" style="color: white; background-image: url('/imgs/assertion.jpeg'); background-repeat: no-repeat; background-position: center center; background-size: cover;"/>
+<div class="w-full h-full" style="color: white; background-image: url('./imgs/assertion.jpeg'); background-repeat: no-repeat; background-position: center center; background-size: cover;"/>
 
 ---
 

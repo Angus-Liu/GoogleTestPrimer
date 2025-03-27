@@ -10,13 +10,13 @@ mdc: true
 
 工欲善其事，必先利其器。——《论语 · 卫灵公》
 
-<div class="abs-bl ml-14 mb-12 flex items-center" >
+<!-- <div class="abs-bl ml-14 mb-12 flex items-center" >
 	<img src="https://avatars.githubusercontent.com/u/24972887?v=4" class="rounded-full w-15">
 	<div class="ml-3 flex flex-col text-left">
 		<span class="font-300">程序员小刀</span>
 		<span>Angus-Liu</span>
 	</div>
-</div>
+</div> -->
 
 ---
 
@@ -99,7 +99,7 @@ TEST(MeTest, TestGradeIsCorrect) {
 }
 
 // 同一组测试，TestSuiteName 应相同
-HWTEST(MeTest, TestScoreDetermineGoodMood, Function | SmallTest | Level0) {
+HWTEST(MeTest, TestGradeDetermineGoodMood, Function | SmallTest | Level0) {
     Me me1(90);
     EXPECT_TRUE(me1.IsGoodMood()); // 非致命断言
 

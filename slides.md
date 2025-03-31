@@ -340,6 +340,10 @@ TYPED_TEST(ContainerTest, CanInsertElements) {
 > 📄 参考：
 > - [GoogleTest User’s Guide](https://google.github.io/googletest/)
 > - [💻【C++】研发基本功 - GTest / GMock 单元测试实践手册](https://imageslr.com/2023/gtest.html)
+>
+> 🧑🏻‍🏫 学习资源：
+> - [IBM 测试和行为驱动开发入门 | Coursera](https://www.coursera.org/learn/test-and-behavior-driven-development-tdd-bdd)
+> - [徐昊 · TDD 项目实战 70 讲](https://time.geekbang.org/column/intro/100109401)
 
 ---
 layout: end

@@ -344,7 +344,7 @@ TYPED_TEST(ContainerTest, CanInsertElements) {
 > 🧑🏻‍🏫 学习资源：
 > - [IBM 测试和行为驱动开发入门 | Coursera](https://www.coursera.org/learn/test-and-behavior-driven-development-tdd-bdd)
 > - [徐昊 · TDD 项目实战 70 讲](https://time.geekbang.org/column/intro/100109401)
-> - [C++程序设计实践与技巧 - 测试驱动开发](https://book.douban.com/subject/26927749/) | [⏬ 网盘下载](https://pan.baidu.com/s/1ZHh6t5PpA694M7njO5nPQw?pwd=7k7j)
+> - [C++ 程序设计实践与技巧 - 测试驱动开发](https://book.douban.com/subject/26927749/) | [⏬ 网盘下载](https://pan.baidu.com/s/1ZHh6t5PpA694M7njO5nPQw?pwd=7k7j)
 
 ---
 layout: end

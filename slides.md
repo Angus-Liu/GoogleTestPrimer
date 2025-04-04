@@ -10,13 +10,11 @@ mdc: true
 
 工欲善其事，必先利其器。——《论语 · 卫灵公》
 
-<!-- <div class="abs-bl ml-14 mb-12 flex items-center" >
-	<img src="https://avatars.githubusercontent.com/u/24972887?v=4" class="rounded-full w-15">
-	<div class="ml-3 flex flex-col text-left">
-		<span class="font-300">程序员小刀</span>
-		<span>Angus-Liu</span>
-	</div>
-</div> -->
+<UserSignature
+  avatar="https://avatars.githubusercontent.com/u/24972887?v=4"
+  displayName="程序员小刀"
+  username="Angus-Liu"
+/>
 
 ---
 
@@ -342,9 +340,9 @@ TYPED_TEST(ContainerTest, CanInsertElements) {
 > - [💻【C++】研发基本功 - GTest / GMock 单元测试实践手册](https://imageslr.com/2023/gtest.html)
 >
 > 🧑🏻‍🏫 学习资源：
-> - [IBM 测试和行为驱动开发入门 | Coursera](https://www.coursera.org/learn/test-and-behavior-driven-development-tdd-bdd)
-> - [徐昊 · TDD 项目实战 70 讲](https://time.geekbang.org/column/intro/100109401)
-> - [C++程序设计实践与技巧 - 测试驱动开发](https://book.douban.com/subject/26927749/) | [⏬ 网盘下载](https://pan.baidu.com/s/1ZHh6t5PpA694M7njO5nPQw?pwd=7k7j)
+> - C++: [C++ 程序设计实践与技巧 - 测试驱动开发](https://book.douban.com/subject/26927749/) | [⏬ 网盘下载](https://pan.baidu.com/s/1ZHh6t5PpA694M7njO5nPQw?pwd=7k7j)
+> - Python: [IBM 测试和行为驱动开发入门 | Coursera](https://www.coursera.org/learn/test-and-behavior-driven-development-tdd-bdd)
+> - Java: [徐昊 · TDD 项目实战 70 讲](https://time.geekbang.org/column/intro/100109401)
 
 ---
 layout: end
